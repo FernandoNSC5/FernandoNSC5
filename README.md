@@ -15,7 +15,6 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-grey?style=flat&logo=RabbitMQ)
 ![Redis](https://img.shields.io/badge/-Redis-grey?style=flat&logo=Redis)
 ![NginX](https://img.shields.io/badge/-NginX-grey?style=flat&logo=Nginx)
-![Git](https://img.shields.io/badge/-Git-grey?style=flat&logo=Git)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoNSC5&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19&hide_title=true" />
 <br><br>
