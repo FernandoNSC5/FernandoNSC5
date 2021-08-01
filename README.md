@@ -36,7 +36,7 @@
     </tr>
     <tr style="border:none">
         <td style="border:none">
-            <a href="https://github.com/FernandoNSC5/hibernateCrud" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNSC5&repo=hibernateCrud&theme=kacho_ga"></a>
+            <a href="https://github.com/FernandoNSC5/confectory" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNSC5&repo=confectory&theme=kacho_ga"></a>
         </td>
     </tr>
     </tbody>
