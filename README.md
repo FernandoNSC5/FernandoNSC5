@@ -17,30 +17,15 @@
 ![NginX](https://img.shields.io/badge/-NginX-grey?style=flat&logo=Nginx)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoNSC5&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19&hide_title=true" />
-<br><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=tiannamen&layout=compacttitle_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19" />
 
+<br><br><br>
 - 💻 I ~like~ **love** coding
 - ⌨️ Java, Python, C++ and others
 - 🤝 Always open for cooperation
 - ❤️ Code 🖥️, games 🎮 and cats 😸
 
-<table align="center" style="border:none">
-    <tbody style="border:none">
-    <tr style="border:none">
-        <td style="border:none">
-            <a href="https://github.com/FernandoNSC5/performetrics" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNSC5&repo=performetrics&theme=merko"></a>
-        </td>
-        <td rowspan="2" style="border:none;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNSC5&theme=flat&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19"/>
-        </td>
-    </tr>
-    <tr style="border:none">
-        <td style="border:none">
-            <a href="https://github.com/FernandoNSC5/confectory" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoNSC5&repo=confectory&theme=kacho_ga"></a>
-        </td>
-    </tr>
-    </tbody>
-</table>
+<br><br><br><br><br>
 
 <div align="center">
     <i>Follow Me:</i><br>
