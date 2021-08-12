@@ -19,18 +19,21 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoNSC5&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19&hide_title=true" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=tiannamen&layout=compacttitle_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19" />
 
-<br><br><br>
+<br><br>
 - 💻 I ~like~ **love** coding
 - ⌨️ Java, Python, C++ and others
 - 🤝 Always open for cooperation
 - ❤️ Code 🖥️, games 🎮 and cats 😸
 
-<br><br><br><br><br><br><br>
+<br><br><br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/fernandonsc5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/dautomne_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://open.spotify.com/artist/2qOGJfzBSgLXBUhqeo2g9z?si=BV6IHHQrT5mUcZ9fVv6rXA&dl_branch=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
     <a href="https://steamcommunity.com/id/Dautomne_"  target="_blank"><img src="https://img.shields.io/badge/Steam-black.svg?&style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
-    <img src="https://komarev.com/ghpvc/?username=FernandoNSC5">
+</div>
+<br>
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=FernandoNSC5">
 </div>
