@@ -27,7 +27,7 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/Spotify-228B22?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/artist/2qOGJfzBSgLXBUhqeo2g9z" target="_blank"><img src="https://img.shields.io/badge/Spotify-228B22?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dautomne_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://steamcommunity.com/id/Dautomne_" target="_blank"><img src="https://img.shields.io/badge/Steam-2F4F4F?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
  <a href="https://www.buymeacoffee.com/dautomne" target="_blank"><img src="https://img.shields.io/badge/BuyMeACoffee-008080?style=for-the-badge&logo=buymeacoffee&logoColor=white" target="_blank"></a> 
