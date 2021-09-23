@@ -2,7 +2,7 @@
 <div style="display: inline">
   <a href="https://github.com/FernandoNSC5">
   <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api?username=fernandonsc5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="136em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tiannamen&layout=compact&theme=dark"/>
+  <img height="136em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tiannamen&theme=dark"/>
   <div align="left">
      <img src="https://komarev.com/ghpvc/?username=FernandoNSC5">
   </div>
