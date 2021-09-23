@@ -1,39 +1,40 @@
-<div align="center">
-   <h1>Hello World! 👋🏾 👩🏾‍💻</h1>
+## Hello! My name is Fernando Tiannamen 
+<div style="display: inline">
+  <a href="https://github.com/FernandoNSC5">
+  <img height="180em" align="left" display="inline" src="https://github-readme-stats.vercel.app/api?username=fernandonsc5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="136em" display="inline" src="https://github-readme-stats.vercel.app/api/wakatime?username=tiannamen&layout=compact&theme=dark"/>
+  <div align="left">
+     <img src="https://komarev.com/ghpvc/?username=FernandoNSC5">
+  </div>
+</div><br>
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
+  <img align="right"  height="150" style="border-radius:50px;" src="ftiannamen.gif">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/Spotify-228B22?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/dautomne_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://steamcommunity.com/id/Dautomne_" target="_blank"><img src="https://img.shields.io/badge/Steam-2F4F4F?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+ <a href="https://www.buymeacoffee.com/dautomne" target="_blank"><img src="https://img.shields.io/badge/BuyMeACoffee-008080?style=for-the-badge&logo=buymeacoffee&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:fernandonsc5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernandonsc5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
-![C++](https://img.shields.io/badge/-C++-grey?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-grey?style=flat&logo=Java)
-![Spring](https://img.shields.io/badge/-Spring-grey?style=flat&logo=Spring)
-![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=Python)
-![Qt](https://img.shields.io/badge/-Qt-grey?style=flat&logo=Qt)
-![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-grey?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-grey?style=flat&logo=postgresql)
-![NoSQL](https://img.shields.io/badge/-NoSQL-grey?style=flat&logo=MongoDB)
-![Docker](https://img.shields.io/badge/-Docker-grey?style=flat&logo=Docker)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-grey?style=flat&logo=RabbitMQ)
-![Redis](https://img.shields.io/badge/-Redis-grey?style=flat&logo=Redis)
-![NginX](https://img.shields.io/badge/-NginX-grey?style=flat&logo=Nginx)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoNSC5&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19&hide_title=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=tiannamen&layout=compacttitle_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19" />
-
-<br><br>
-- 💻 I ~like~ **love** coding
-- ⌨️ Java, Python, C++ and others
-- 🤝 Always open for cooperation
-- ❤️ Code 🖥️, games 🎮 and cats 😸
-
-<br><br><br>
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/fernandonsc5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/dautomne_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://open.spotify.com/artist/2qOGJfzBSgLXBUhqeo2g9z?si=BV6IHHQrT5mUcZ9fVv6rXA&dl_branch=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-    <a href="https://steamcommunity.com/id/Dautomne_"  target="_blank"><img src="https://img.shields.io/badge/Steam-black.svg?&style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
-</div>
-<br>
-<div align="center">
-   <img src="https://komarev.com/ghpvc/?username=FernandoNSC5">
-</div>
