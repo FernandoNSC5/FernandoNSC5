@@ -1,12 +1,10 @@
 ## Hello! My name is Fernando Tiannamen 
-<div style="display: inline">
+<div align="center">
   <a href="https://github.com/FernandoNSC5">
-  <img height="165em" align="left" src="https://github-readme-stats.vercel.app/api?username=fernandonsc5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="136em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tiannamen&theme=dark"/>
-  <div align="left">
-     <img src="https://komarev.com/ghpvc/?username=FernandoNSC5">
-  </div>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=fernandonsc5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonsc5&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
+<img src="https://github.com/FernandoNSC5/FernandoNSC5/blob/master/images/stat.svg" alt="Alternative Text"/>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,6 +19,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=FernandoNSC5">
   <img align="right"  height="150" style="border-radius:50px;" src="ftiannamen.gif">
 </div>
   
