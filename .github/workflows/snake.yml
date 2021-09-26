@@ -2,7 +2,7 @@ name: Generate snake data
 
 on:
   schedule:
-    - cron: "'09 20 * * *'"
+    - cron: "08 22 * * *"
   workflow_dispatch:
 
 jobs:
